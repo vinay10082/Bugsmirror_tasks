@@ -20,3 +20,7 @@ present more than once in the .txt file.
 provided by the programming language.
 
 publiced to github link :: "https://github.com/vinay10082/Bugsmirror_tasks"
+
+Command to run:
+1. compile - "g++ dictionary_generator.cpp"
+2. Run code - "./a.exe"
